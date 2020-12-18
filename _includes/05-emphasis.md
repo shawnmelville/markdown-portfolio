@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Your Own Octocat**
+Take a break from your _*build and create an Octocat*_ that’s all you, from whisker tip to tail.
